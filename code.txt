@@ -1,3 +1,5 @@
 Hello!
 
 This my first trial for Git!
+
+Doing something exciting today!
