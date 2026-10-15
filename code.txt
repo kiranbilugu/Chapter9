@@ -5,3 +5,5 @@ This my first trial for Git!
 Doing something exciting today!
 
 Cheking from VM os to ubuntu. 
+
+adding new features to the code!
