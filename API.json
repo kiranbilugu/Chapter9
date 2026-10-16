@@ -1,0 +1,8 @@
+{
+  "status": true,
+  "number": 123456,
+  "limit": 1000,
+  "transaction": {
+    "amount": 500
+  }
+}
